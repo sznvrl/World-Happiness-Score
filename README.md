@@ -11,7 +11,7 @@
 
 ## Installation <a name="installation"></a>
 
-
+Python 3.0 used for all analysis. Pandas, numpy, matplotlib, seaborn, folium, matplotlib, html5lib, plotly.express, plotly.figure_factory, plotly.graph_objs and plotly.offline  were used.
 
 ## Project Motivation<a name="motivation"></a>
 
