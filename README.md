@@ -15,6 +15,7 @@ Python 3.0 used for all analysis. Pandas, numpy, matplotlib, seaborn, folium, ma
 
 ## Project Motivation<a name="motivation"></a>
 
+In this project,  World Happiness Report were analyzed. 
 
 
 ## File Descriptions <a name="files"></a>
